@@ -4,4 +4,4 @@
 
 def roll
   return rand(6)
-  end
+end
